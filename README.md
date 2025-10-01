@@ -41,10 +41,35 @@ The project is organized into clear, easy-to-navigate modules:
 ---
 
 ## 🖼️ Dashboard Previews
+## <img width="24" height="24" alt="excel image" src="https://github.com/user-attachments/assets/93013359-2f83-45da-9317-e0a5fe7d4e20" /> Excel: excel_bank_data_preview
+<img width="828" height="477" alt="excel_bank_data_preview" src="https://github.com/user-attachments/assets/158b5b1a-d97e-4c2d-a3f4-45baa8d22755" />  
 
-| Analysis Focus | Excel View | Power BI Main View | Tableau View |
-| :--- | :--- | :--- | :--- |
-| **Bank Data** | ![](/visualizations_preview/excel_bank_data_preview.png) | ![](/visualizations_preview/powerbi_bank_data_main.png) | ![](/visualizations_preview/tableau_bank_data_preview.png) |
-| **Credit/Debit** | ![](/visualizations_preview/excel_credit_debit_preview.png) | ![](/visualizations_preview/powerbi_credit_debit_main.png) | ![](/visualizations_preview/tableau_credit_debit_preview.png) |
-| **Power BI Drill-through**| | ![](/visualizations_preview/powerbi_bank_data_drillthrough.png) | |
-| **Power BI Drill-through**| | ![](/visualizations_preview/powerbi_credit_debit_drillthrough.png) | |
+## <img width="24" height="24" alt="excel image" src="https://github.com/user-attachments/assets/93013359-2f83-45da-9317-e0a5fe7d4e20" /> Excel:Debit and Credit banking_data_Dashboard
+<img width="707" height="477" alt="excel_credit_debit_preview" src="https://github.com/user-attachments/assets/0e8b9d57-3ad0-404b-9f02-0d4f609f0be6" /> 
+
+---
+## <img width="50" height="50" alt="power bi" src="https://github.com/user-attachments/assets/a9ed8ca2-877d-4187-bfaf-3fadac3c664d" /> PowerBI : powerbi_bank_data_main And drill through
+
+ <img width="880" height="500" alt="powerbi_bank_data_main" src="https://github.com/user-attachments/assets/4f8eda34-b346-4330-8b38-f114ff85421d" />  
+ 
+ <img width="895" height="503" alt="powerbi_bank_data_drillthrough" src="https://github.com/user-attachments/assets/a6d420f0-b4d7-482c-bab3-94b854ba196b" /> 
+
+ 
+
+## <img width="50" height="50" alt="power bi" src="https://github.com/user-attachments/assets/a9ed8ca2-877d-4187-bfaf-3fadac3c664d" /> PowerBI : powerbi_credit_debit_main & drillthrough
+
+<img width="889" height="499" alt="powerbi_credit_debit_main" src="https://github.com/user-attachments/assets/7d635f0b-9b3e-46fa-a75e-e89084c6a5e1" />
+
+<img width="892" height="500" alt="powerbi_credit_debit_drillthrough" src="https://github.com/user-attachments/assets/f21839a0-9dba-4eb0-9ff0-f5bf05cb11b6" />
+
+
+---
+## <img width="50" height="50" alt="download" src="https://github.com/user-attachments/assets/961aaf58-c865-4c81-b53a-b5bf6c3bbe3e" /> Tablue : tableau_bank_data_preview
+![tableau_bank_data_preview](https://github.com/user-attachments/assets/828f8f17-9434-45ce-9a74-cdf658841db0)
+
+
+
+## <img width="50" height="50" alt="download" src="https://github.com/user-attachments/assets/961aaf58-c865-4c81-b53a-b5bf6c3bbe3e" /> Tablue : tableau_credit_debit_preview
+![tableau_credit_debit_preview](https://github.com/user-attachments/assets/36e2746f-c330-4c59-b820-68e4c83812b5)
+
+
