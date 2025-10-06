@@ -39,6 +39,10 @@ The project is organized into clear, easy-to-navigate modules:
 * **`04_SQL_Scripts/`**: Commented SQL files showing data preparation steps.
 
 ---
+<img width="1536" height="1024" alt="ChatGPT Image Oct 6, 2025, 04_53_12 PM" src="https://github.com/user-attachments/assets/902e4753-a2c1-456a-a394-5e66f4d16466" />
+
+---
+
 
 ## 🖼️ Dashboard Previews
 ## <img width="24" height="24" alt="excel image" src="https://github.com/user-attachments/assets/93013359-2f83-45da-9317-e0a5fe7d4e20" /> Excel: excel_bank_data_preview
@@ -71,5 +75,6 @@ The project is organized into clear, easy-to-navigate modules:
 
 ## <img width="50" height="50" alt="download" src="https://github.com/user-attachments/assets/961aaf58-c865-4c81-b53a-b5bf6c3bbe3e" /> Tablue : tableau_credit_debit_preview
 ![tableau_credit_debit_preview](https://github.com/user-attachments/assets/36e2746f-c330-4c59-b820-68e4c83812b5)
+
 
 
